@@ -1,0 +1,8 @@
+title: Learn-something-everyday
+description: "A compilation of everything that I learn; CS, Software Development, Engineering, Math, Coding in General. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
